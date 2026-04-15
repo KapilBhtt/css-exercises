@@ -9,3 +9,7 @@
     background-color: black;
     color: white;
 }
+
+.click-me.no {
+    background-color: yellow;
+}
